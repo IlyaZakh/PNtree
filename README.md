@@ -4,4 +4,15 @@
 Программа написана и собрана в Borland C++ Builder
 
 ## Примеры работы
-![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "CPN-Tools")
+![Alt-текст](screenshots/ScreenCPN.png "CPN-Tools")    
+Исходная сеть в программе CPN-Tools
+
+#### Исходные данные
+![Alt-текст](screenshots/Init.png "Исходные данные")    
+
+#### Результат работы программы
+![Alt-текст](screenshots/4lab.bmp "Результат")    
+
+#### Забавные результаты работы программы
+![Alt-текст](screenshots/333.jpg "Интересно")    
+![Alt-текст](screenshots/33321321.jpg "Папоротник")    
